@@ -1,6 +1,31 @@
+title{
+    font-style: italic;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
 h1{
     background-color: green;
+    text-align: center;
+    
 }
 h2{
     background-color: blueviolet;
+}
+#first-div{
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+p button{
+background-color: yellow;
+}
+ol{
+    text-align: center;
 }
